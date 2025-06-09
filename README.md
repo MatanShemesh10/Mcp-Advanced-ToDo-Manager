@@ -31,8 +31,8 @@ pip install mcp
 2️⃣ Clone this repository:
 
 ```bash
-git clone <YOUR_REPO_URL>
-cd <YOUR_REPO_DIRECTORY>
+git clone https://github.com/MatanShemesh10/Mcp-Advanced-ToDo-Manager
+cd Mcp-Advanced-ToDo-Manager
 ```
 
 3️⃣ Initialize the environment (you can name it whatever you like):
