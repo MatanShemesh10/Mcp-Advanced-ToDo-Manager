@@ -1,0 +1,22 @@
+Please create the following tasks for user "Test User":
+
+Description: "Buy groceries", Deadline: "2025-06-15", Priority: "High", Tags: ["home", "shopping"]
+Description: "Go jogging", Deadline: "2025-06-17", Priority: "Medium", Tags: ["health"]
+Description: "Finish report", Deadline: "2025-06-12", Priority: "High", Tags: ["work"]
+Description: "Read book", Deadline: "2025-06-20", Priority: "Low", Tags: ["personal", "fun"]
+Description: "Prepare dinner", Deadline: "2025-06-11", Priority: "Medium", Tags: ["home", "cooking"]
+Description: "Call mom", Deadline: "2025-06-19", Priority: "Low", Tags: ["family", "personal"]
+Description: "Clean house", Deadline: "2025-06-13", Priority: "High", Tags: ["home"]
+Description: "Pay bills", Deadline: "2025-06-18", Priority: "Medium", Tags: ["finance", "important"]
+Description: "Write blog post", Deadline: "2025-06-14", Priority: "High", Tags: ["work", "creative"]
+Description: "Learn guitar", Deadline: "2025-06-16", Priority: "Low", Tags: ["personal", "fun"]
+Also:
+Mark the tasks "Pay bills" and "Clean house" as done.
+Update the task "Go jogging" to have priority "High" and add the tag "exercise".
+Retrieve open tasks.
+Retrieve completed tasks.
+Show me upcoming deadlines within 3 days.
+Show me statistics for this user.
+List tasks sorted by priority.
+Search for tasks tagged with "fun".
+Provide me with the full JSON-like task resource for this user.
