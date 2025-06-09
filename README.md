@@ -1,5 +1,8 @@
 
 # MCP Advanced To-Do Manager
+![image](https://github.com/user-attachments/assets/10ea12ae-fd4b-4f56-9172-9343200e248a)
+![image](https://github.com/user-attachments/assets/710535ed-101f-4b74-99d1-8b5966e0c103)
+
 
 This is a local MCP (Model Context Protocol) server that manages a personal to-do list for users. It was created by Matan Shemesh while learning from the following tutorial video:  
 [MCP Tutorial: Build Your First MCP Server](https://www.youtube.com/watch?v=jLM6n4mdRuA)
