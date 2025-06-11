@@ -1,5 +1,7 @@
 
 # MCP Advanced To-Do Manager
+![image](https://github.com/user-attachments/assets/4701b7bb-e66f-4cc9-bdba-c6ea6c524635)
+
 ![image](https://github.com/user-attachments/assets/62ec07b9-d62f-451e-b5ed-dd0271333d4c)
 
 ![image](https://github.com/user-attachments/assets/710535ed-101f-4b74-99d1-8b5966e0c103)
